@@ -10,7 +10,6 @@
     <BuildOutputFolder>$(MSBuildProjectDirectory)\dist\SportsStore</BuildOutputFolder>
   </PropertyGroup>
   <ItemGroup>
-    <Folder Include="src\app\model\" />
     <Folder Include="src\app\admin\" />
   </ItemGroup>
 </Project>
