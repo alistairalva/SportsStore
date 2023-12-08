@@ -19,7 +19,7 @@
       "name": "Soccer Ball",
       "category": "Soccer",
       "description": "FIFA-approved size and weight",
-      "price": 19.50
+      "price": 19.5
     },
     {
       "id": 4,
@@ -62,6 +62,20 @@
       "category": "Chess",
       "description": "Gold-plated, diamond-studded King",
       "price": 1200
+    },
+    {
+      "name": "New Product 1",
+      "category": "Shoes",
+      "description": "Sports shoes",
+      "price": "50",
+      "id": 10
+    },
+    {
+      "name": "New Product 2",
+      "category": "Shirt",
+      "description": "Sports Shirt",
+      "price": "75",
+      "id": 11
     }
   ],
   "orders": []
